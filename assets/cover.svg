@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc">
+  <title id="title">Mahamadou Kouma — Digital products with purpose</title>
+  <desc id="desc">A dark navy and green banner for Mahamadou Kouma, co-founder of Netdesigns in Bamako.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091d26"/><stop offset="1" stop-color="#102f31"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c8f4d9"/><stop offset="1" stop-color="#4bb99b"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#a8d7c7" stroke-opacity=".10"/></pattern>
+  </defs>
+  <rect width="1600" height="470" fill="url(#bg)"/>
+  <rect width="1600" height="470" fill="url(#grid)"/>
+  <circle cx="1400" cy="220" r="262" fill="none" stroke="#a8e6ce" stroke-opacity=".12"/>
+  <circle cx="1400" cy="220" r="190" fill="none" stroke="#a8e6ce" stroke-opacity=".16"/>
+  <circle cx="1400" cy="220" r="116" fill="none" stroke="#a8e6ce" stroke-opacity=".22"/>
+  <path d="M1150 318 1250 218 1322 258 1438 140 1528 190" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+  <circle cx="1438" cy="140" r="7" fill="#c8f4d9"/>
+  <rect x="86" y="68" width="12" height="12" rx="6" fill="#80d3b2"/>
+  <text x="113" y="79" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4" fill="#b8d8cf">BAMAKO  /  MALI</text>
+  <text x="84" y="196" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#f2fbf7">Mahamadou Kouma</text>
+  <text x="88" y="255" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#c1e2d5">Digital products with purpose.</text>
+  <path d="M89 310h98" stroke="#80d3b2" stroke-width="4" stroke-linecap="round"/>
+  <text x="89" y="362" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#a9d5c5">CO-FONDATEUR  ·  NETDESIGNS</text>
+  <text x="1400" y="424" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3" fill="#8fb7aa">BUILD  /  DEPLOY  /  EVOLVE</text>
+</svg>
